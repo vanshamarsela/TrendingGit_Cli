@@ -1,5 +1,7 @@
 # trending-repos
 
+Based on the project idea from [roadmap.sh](https://roadmap.sh/projects/github-trending-cli)
+
 A Python CLI tool to discover trending GitHub repositories filtered by time range.
 
 ---
